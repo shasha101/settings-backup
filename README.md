@@ -1,2 +1,2 @@
 # settings-backup
-Repo for backing up configuration settings.
+Repo for backing up configuration settings and storing scripts for abit of automation in mundane tasks...
